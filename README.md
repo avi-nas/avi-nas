@@ -1,8 +1,25 @@
-- 👋 Hi, I’m Aviansh Sharma
-- I’m interested in flutter,java,python,web development
-- I’m android app developer, penetration tester
-- I’m looking to collaborate on any of the technology mentioned above.
-- 📫 Contract - avibhardwaj1410@gmail.com , 9008337447
+👋 Hi, I’m Aviansh Sharma
+
+Interests:
+  ·Swift
+  ·Flutter
+  ·Kotlin
+  ·Java
+  ·Python
+
+Expertise:
+  ·iOS App Development
+  ·Android App Development
+  ·Cross Platform (Flutter)
+
+Looking to Collaborate On:
+  ·Any of the above technologies
+
+Contact Information:
+  ·Email: avibhardwaj1410@gmail.com
+  ·Phone: 9008337447
+
+
 
 <!---
 avi-nas/avi-nas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
