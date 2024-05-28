@@ -1,23 +1,23 @@
 👋 Hi, I’m Aviansh Sharma
 
 Interests:
-  ·Swift
-  ·Flutter
-  ·Kotlin
-  ·Java
-  ·Python
+  Swift
+  Flutter
+  Kotlin
+  Java
+  Python
 
 Expertise:
-  ·iOS App Development
-  ·Android App Development
-  ·Cross Platform (Flutter)
+  iOS App Development
+  Android App Development
+  Cross Platform (Flutter)
 
 Looking to Collaborate On:
-  ·Any of the above technologies
+  Any of the above technologies
 
 Contact Information:
-  ·Email: avibhardwaj1410@gmail.com
-  ·Phone: 9008337447
+  Email: avibhardwaj1410@gmail.com
+  Phone: 9008337447
 
 
 
